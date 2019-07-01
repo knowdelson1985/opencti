@@ -1,26 +1,20 @@
 ---
 name: Feature request
-about: Ask for a new feature to be implemented in OpenCTI
+about: Suggest an idea for this project
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-Please replace every line in curly brackets { like this } with appropriate answers, and remove this line.
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-## Problem to Solve
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-{ Please describe the problem you would like to solve. }
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
 
-## Current Workaround
-
-{ Please describe how you currently solve or work around this problem, given OpenCTI's limitation. }
-
-## Proposed Solution
-
-{ Please describe the solution you would like OpenCTI to provide, to solve the problem above. }
-
-## Additional Information
-
-{ Any additional information, including logs or screenshots if you have any. }
+**Additional context**
+Add any other context or screenshots about the feature request here.
